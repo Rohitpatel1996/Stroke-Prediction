@@ -7,7 +7,7 @@ A stroke occurs when the brain gets damaged as a result of interruption of the b
 We used the stroke prediction dataset from Kaggle (uploaded by the user fedesoriano). Link:- https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## PreProcessing and Model Building
-The file for preprocessing and model building named "Stroke_Prediction.ipynb" is uploaded here.
+The file for preprocessing and model building named "Stroke Prediction.ipynb" is uploaded here.
 
 ## Integration
 Integration of model is done in python flask
